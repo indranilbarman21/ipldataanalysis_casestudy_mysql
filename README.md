@@ -8,7 +8,7 @@ Analysis of test cases using bowler and batsmen data over a span of two years in
 - Creating Tables
 - Analysis through various SQL functions
 
-  Funtions used
+  **Funtions used**
   1. SELECT
   2. FROM
   3. WHERE
